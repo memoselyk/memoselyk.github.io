@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on Hello Friend NG</title>
+    <link>http://10.37.178.234:1313/tags/untagged/</link>
+    <description>Recent content in Untagged on Hello Friend NG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 21 Oct 2024 13:57:37 +0000</lastBuildDate>
+    <atom:link href="http://10.37.178.234:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://10.37.178.234:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 21 Oct 2024 13:57:37 +0000</pubDate>
+      <guid>http://10.37.178.234:1313/posts/my-first-post/</guid>
+      <description>Welcome To my digital garden, I made it with hugo&#xA;hugo site new . --force </description>
+    </item>
+  </channel>
+</rss>
