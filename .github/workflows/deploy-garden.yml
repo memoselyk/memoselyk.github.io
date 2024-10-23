@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Enable the deploy key for the gehirn repo.
-        uses: webfactory/ssh-agent@v0.5.4
+        uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.GEHIRN_DEPLOY_KEY }}
       - uses: actions/checkout@v4
