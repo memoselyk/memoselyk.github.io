@@ -29,6 +29,8 @@ jobs:
           sparse-checkout: Public
           path: content-repo
           fetch-depth: 0 # Fetch all history for git info
+      - name: Setup content repo
+        run: ln -s ./content-repo/Public content
       - uses: actions/setup-node@v4
         with:
           node-version: 20
